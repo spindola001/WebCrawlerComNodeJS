@@ -8,7 +8,7 @@ Para rodar o projeto é necessário instalar as seguintes bibliotecas:
 
 Para isso, no terminal (na pasta do projeto) rode o seguinte comando:
 
-<b>npm</b> <i>i -S request request-promise cheerio excel4node</i>
+<b>npm</b> <i>i -S request-promise cheerio excel4node</i>
 
 Após rodar o comando acima, basta rodar o arquivo index.js com o seguinte comando:
 
